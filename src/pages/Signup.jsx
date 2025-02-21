@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Signout() {
+function Signup() {
     return (
         <>
         <button>Sign up</button>
@@ -9,4 +9,4 @@ function Signout() {
     )
 }
 
-export default Signout
+export default Signup
